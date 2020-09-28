@@ -1,4 +1,5 @@
 Hi 
+dominja
 https://github.com/dominja/git-basic.git
 Add is for staging new or modified files. 
 Commit is for pushing it on your local repo while 
